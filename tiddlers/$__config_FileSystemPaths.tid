@@ -1,0 +1,6 @@
+created: 20240703111853724
+modified: 20240703112337584
+tags: 
+title: $:/config/FileSystemPaths
+
+[!is[system]has[save-to]get[save-to]] [get[title]search-replace:g:regexp[/|\\],[_]] +[join[/]] 
